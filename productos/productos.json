@@ -2,37 +2,37 @@
   {
     "id": 1,
     "nombre": "1 Botellón",
-    "precio": 9.000,
+    "precio": 9000,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/1Botellon.png"
   },
   {
     "id": 2,
     "nombre": "2 Botellones",
-    "precio": 18.000,
+    "precio": 18000,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/2Botellones.png"
   },
   {
     "id": 3,
     "nombre": "3 Botellones",
-    "precio": 27.000,
+    "precio": 27000,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/3Botellones.png"
   },
   {
     "id": 4,
     "nombre": "Dispensador básico plástico",
-    "precio": 11.990,
+    "precio": 11990,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador1.png"
   },
   {
     "id": 5,
     "nombre": "Dispensador agua fría/caliente",
-    "precio": 39.990,
+    "precio": 39990,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador2.png"
   },
   {
     "id": 6,
     "nombre": "Dispensador de cerámica",
-    "precio": 29.990,
+    "precio": 29990,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador3.png"
   }
 ]
