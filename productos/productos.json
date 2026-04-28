@@ -1,44 +1,38 @@
 [
   {
     "id": 1,
-    "nombre": "Producto: 1 Botellón.",
+    "nombre": "Botellón 1L",
     "precio": 25000,
-    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto1.jpg",
-    "categoria": "Botellones"
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/1Botellon.png"
   },
   {
     "id": 2,
-    "nombre": "Producto: 2 Botellones.",
+    "nombre": "2 Botellones",
     "precio": 15000,
-    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto2.jpg",
-    "categoria": "Botellones"
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/2Botellones.png"
   },
-   {
+  {
     "id": 3,
-    "nombre": "Producto: 3 Botellones.",
+    "nombre": "3 Botellones",
     "precio": 25000,
-    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
-    "categoria": "Botellones"
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/3Botellones.png"
   },
-   {
+  {
     "id": 4,
-    "nombre": "Producto: Dispensador pedestal básico.",
+    "nombre": "Dispensador pedestal básico",
     "precio": 25000,
-    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
-    "categoria": "Dispensadores"
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador1.png"
   },
-   {
+  {
     "id": 5,
-    "nombre": "Producto: Dispensador agua fría/caliente.",
+    "nombre": "Dispensador agua fría/caliente",
     "precio": 25000,
-    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
-    "categoria": "Dispensadores"
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador2.png"
   },
-   {
+  {
     "id": 6,
-    "nombre": "Producto: Dispensador ceramico.",
+    "nombre": "Dispensador cerámico",
     "precio": 25000,
-    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
-    "categoria": "Dispensadores"
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador3.png"
   }
 ]
