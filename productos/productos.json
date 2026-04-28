@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto: 1 Botellón.",
+    "precio": 25000,
+    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto1.jpg",
+    "categoria": "Botellones"
+  },
+  {
+    "id": 2,
+    "nombre": "Producto: 2 Botellones.",
+    "precio": 15000,
+    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto2.jpg",
+    "categoria": "Botellones"
+  },
+   {
+    "id": 3,
+    "nombre": "Producto: 3 Botellones.",
+    "precio": 25000,
+    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
+    "categoria": "Botellones"
+  },
+   {
+    "id": 4,
+    "nombre": "Producto: Dispensador pedestal básico.",
+    "precio": 25000,
+    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
+    "categoria": "Dispensadores"
+  },
+   {
+    "id": 5,
+    "nombre": "Producto: Dispensador agua fría/caliente.",
+    "precio": 25000,
+    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
+    "categoria": "Dispensadores"
+  },
+   {
+    "id": 6,
+    "nombre": "Producto: Dispensador ceramico.",
+    "precio": 25000,
+    "imagen": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/img/foto3.jpg",
+    "categoria": "Dispensadores"
+  }
+]
