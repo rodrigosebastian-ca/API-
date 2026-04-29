@@ -3,7 +3,7 @@
 
    {
     "id": 1,
-    "nombre": "Promocion KIT",
+    "nombre": "Promoción KIT",
     "precio1": 14000,
     "precio2": 19000,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/refs/heads/master/productos/Promocion1.png"
@@ -11,7 +11,7 @@
   ,
   {
     "id": 2,
-    "nombre": "Promocion Recargas",
+    "nombre": "Promoción Recargas",
     "precio1": 7000,
     "precio2": 9000,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/refs/heads/master/productos/Promocion2.png"
