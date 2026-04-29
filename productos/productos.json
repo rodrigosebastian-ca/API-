@@ -1,43 +1,8 @@
 [
-  {
+
+
+   {
     "id": 1,
-    "nombre": "1 Botellón",
-    "precio": 9000,
-    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/1Botellon.png"
-  },
-  {
-    "id": 2,
-    "nombre": "2 Botellones",
-    "precio": 18000,
-    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/2Botellones.png"
-  },
-  {
-    "id": 3,
-    "nombre": "3 Botellones",
-    "precio": 27000,
-    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/3Botellones.png"
-  },
-  {
-    "id": 4,
-    "nombre": "Dispensador básico plástico",
-    "precio": 11990,
-    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador1.png"
-  },
-  {
-    "id": 5,
-    "nombre": "Dispensador agua fría/caliente",
-    "precio": 39990,
-    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador2.png"
-  },
-  {
-    "id": 6,
-    "nombre": "Dispensador de cerámica",
-    "precio": 29990,
-    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador3.png"
-  }
-  ,
-  {
-    "id": 7,
     "nombre": "Promocion KIT",
     "precio1": 14000,
     "precio2": 19000,
@@ -45,10 +10,47 @@
   }
   ,
   {
-    "id": 8,
+    "id": 2,
     "nombre": "Promocion Recargas",
     "precio1": 7000,
     "precio2": 9000,
     "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/refs/heads/master/productos/Promocion2.png"
+  },
+
+  {
+    "id": 3,
+    "nombre": "1 Botellón",
+    "precio": 9000,
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/1Botellon.png"
+  },
+  {
+    "id": 4,
+    "nombre": "2 Botellones",
+    "precio": 18000,
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/2Botellones.png"
+  },
+  {
+    "id": 5,
+    "nombre": "3 Botellones",
+    "precio": 27000,
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/3Botellones.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Dispensador básico plástico",
+    "precio": 11990,
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador1.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Dispensador agua fría/caliente",
+    "precio": 39990,
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador2.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Dispensador de cerámica",
+    "precio": 29990,
+    "imagen": "https://raw.githubusercontent.com/rodrigosebastian-ca/API-/master/productos/Dispensador3.png"
   }
 ]
